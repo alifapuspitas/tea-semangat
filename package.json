@@ -1,0 +1,24 @@
+{
+  "name": "tea-semangat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alifapuspitas/tea-semangat.git"
+  },
+  "author": "alifahpuspitas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alifapuspitas/tea-semangat/issues"
+  },
+  "homepage": "https://github.com/alifapuspitas/tea-semangat#readme",
+  "dependencies": {
+    "serangan-fajar": "^1.0.0",
+    "tea-mengakun": "^1.0.0",
+    "tea-yulvan": "^1.0.0"
+  }
+}
